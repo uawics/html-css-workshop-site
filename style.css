@@ -1,0 +1,79 @@
+body 
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%;
+	background-color: #663367;
+}
+
+h1 
+{
+  border-style: groove;
+  border-color: white;
+	text-align: center;
+	padding: 1%;
+	color: white;
+	margin:0;
+	/** font size **/
+}
+
+
+.column {
+  float: left;
+  width: 33%;
+  background-color: #663367;
+}
+
+
+
+.button {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  margin: 5% 25% 5% 25%;
+  cursor: pointer;
+  border-radius: 4px;
+
+}
+
+h2
+{
+  padding: 2%;
+  text-align: center;
+}
+
+p 
+{
+  padding: 5%;
+  text-align: center;
+}
+
+.header
+{
+  color: #663367;
+}
+
+.content
+{
+  background-color: white;
+}
+
+.box
+{
+  text-align: center;
+  padding-top: 120px;
+}
+
+.imgbox
+{
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+}
+
+
+
+

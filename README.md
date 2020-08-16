@@ -1,2 +1,2 @@
-# html-css-workshop-site
-WICS html template code (Tyler, Marisa, Hayley)
+# wicswebsite
+Sample website for WICS workshop 
